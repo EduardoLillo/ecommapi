@@ -1,7 +1,8 @@
 <?php
 
 namespace Database\Seeders;
-
+//use App\Models\Review;
+//use App\Models\Product;
 use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
